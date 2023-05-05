@@ -1,0 +1,13 @@
+ body{
+    background-image: url(https://besthqwallpapers.com/Uploads/20-5-2019/92939/mortal-kombat-golden-logo-artwork-brown-metal-background-creative-mortal-kombat-logo.jpg);
+    background-repeat: no-repeat, repeat-x;
+    background-position: top , center;
+
+ }
+ form{
+   color: antiquewhite; 
+   background-color: black;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translateY(-50%) translateX(-50%)
